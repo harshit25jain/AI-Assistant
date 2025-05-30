@@ -2,6 +2,11 @@
 
 A full-stack AI chatbot application with user authentication and conversation management capabilities.
 
+## 🚀 Live Demo
+
+Check out the live app here: (https://ai-assiste.netlify.app/login)
+
+
 ## Features
 
 - User authentication (register, login, logout)
