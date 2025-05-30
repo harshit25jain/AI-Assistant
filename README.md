@@ -4,7 +4,9 @@ A full-stack AI chatbot application with user authentication and conversation ma
 
 ## 🚀 Live Demo
 
-Check out the live app here: (https://ai-assiste.netlify.app)
+Check out the live app here: 
+Frontend: [https://ai-assiste.netlify.app]
+Backend : [https://ai-assistant-backend-f3v8.onrender.com]
 
 
 ## Features
