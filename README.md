@@ -4,7 +4,7 @@ A full-stack AI chatbot application with user authentication and conversation ma
 
 ## 🚀 Live Demo
 
-Check out the live app here: (https://ai-assiste.netlify.app/login)
+Check out the live app here: (https://ai-assiste.netlify.app)
 
 
 ## Features
